@@ -1,8 +1,10 @@
-package com.example.jobin1;
+package com.example.jobin1.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.jobin1.R;
 
 public class MainActivity extends AppCompatActivity {
 
