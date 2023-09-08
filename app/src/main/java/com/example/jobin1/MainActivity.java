@@ -1,4 +1,4 @@
-package com.example.jobin1.activities;
+package com.example.jobin1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
